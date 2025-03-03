@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-c2bc8d34-4953-4ac7-80af-e297d68201b7" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="uuid-c5ec30dd-8aed-4b27-882d-44b3170a2ceb" data-name="Безымянный градиент 29" x1="1905.17" y1="-25.69" x2="14.83" y2="1065.69" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05a198"/>
+      <stop offset="1" stop-color="#2d3d89"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1040" style="fill: url(#uuid-c5ec30dd-8aed-4b27-882d-44b3170a2ceb); stroke-width: 0px;"/>
+</svg>

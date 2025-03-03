@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Roboto Flex", serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    font-family: 'Roboto Flex';
+    background-size: cover;
+    backdrop-filter: blur(5px);
+}
+
+button {
+    background: none;
+    border: none;
+    margin: 20px;
+}
+
+input {
+    font-weight: 700;
+    font-size: 170px;
+    height: 200px;
+    width: 770px;
+    outline: none;
+}
+
+.header, .row{
+    height: 50vh;
+}
+
+.profiLogo {
+    margin: 20px 0px;
+    width: auto;
+    height: 190px;
+}
+
+.headerTextCompetition {
+    font-weight: 800;
+    font-size: 85px;
+    width: 95%; 
+    background: none;
+    border: none; 
+    outline: none;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.timeInput {
+    text-align: center;
+    background: none;
+    border-radius: 20px;
+    padding: 10px; 
+    background: none;
+}
+
+.svgButton_start, .svgButton_pause {
+    width: 10vw;
+    height: 10wh;
+}
+
+.hiddenTimer {
+    display: none;
+}
+
+.hiddenButton{
+    display: none;
+}
+
+#dialog1 {
+    width: 700px;
+    height: auto;
+}
+
+.col {
+    width: 50%;
+}
+
+.menuIcon{
+    width: 100px;
+    height: 100px;
+}
+.btn {
+    padding: 0px;
+}
+
+.offcanvas-body {
+    background-color: rgb(43, 48, 53);
+}
+
+.offcanvas-header {
+    background-color: rgb(110, 44, 246);
+    color: white;
+}
+
+.offcanvas-body a {
+    color: rgb(0, 140, 0);
+    padding: 10px 0;
+    display: block;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Roboto Flex", serif;
+}
+
+.dropdown-menu{
+    background: rgb(33, 37, 41);
+    padding: 0px 15px;
+
+}
+
+#sidebarLabel {
+    font-size: 50px;
+    font-weight: 900;
+    font-family: "Roboto Flex", serif;
+}
